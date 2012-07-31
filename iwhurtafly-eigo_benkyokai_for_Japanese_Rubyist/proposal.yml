@@ -1,0 +1,19 @@
+---
+presenters:
+  - name:
+      en: Takashi Hayasaka
+    github: iwhurtafly
+    affiliation:
+      en: Tokyo Rubyist Meetup, Sendagaya.rb
+    bio:
+      en: Non-programmer but Rubyist
+title:
+  en: Eigo Benkyokai for Japanese Rubyist
+  ja: 日本のRubyist向け英語勉強会のご案内
+abstract:
+  en: We Japanese Rubyist have to learn English moer and more. 
+  ja: 日本のRubyistにおける最大の問題は英語と感じています。「書く」を除いた「読む」「聞く」「話す」を主体に学習し、ナチュラルに英語を使えることを目指す勉強会の開催を考えています。
+language: Japanese
+references:
+  en:
+    - [My twitter](https://twitter.com/#!/iwhurtafly)
